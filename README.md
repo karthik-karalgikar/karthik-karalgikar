@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karthik Karalgikar</h1>
-<h3 align="center">Pursuing Information Science Engineering at Dayananda Sagar Academy of Technology and Management. I love solving problems and I have a creative mindset with an ability to adapt to challenging environments.</h3>
+<h3 align="center">Information Science Engineering Graduate from Dayananda Sagar Academy of Technology and Management. I love solving problems and I have a creative mindset with an ability to adapt to challenging environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik-karalgikar&label=Profile%20views&color=0e75b6&style=flat" alt="karthik-karalgikar" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Kotlin and React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Python, DSA**
 
